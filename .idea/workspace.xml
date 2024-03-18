@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93327452-ea80-4a44-822b-368d121f7314" name="Changes" comment="Create IntentionalBadFormEntries.py and NavigationDemo.py">
-      <change afterPath="$PROJECT_DIR$/Selenium Test Scripts/OpenAndCloseTabs.py" afterDir="false" />
+    <list default="true" id="93327452-ea80-4a44-822b-368d121f7314" name="Changes" comment="Create OpenAndCloseTabs.py">
+      <change afterPath="$PROJECT_DIR$/Selenium Test Scripts/DynamicSearchFail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium Test Scripts/DynamicSearchSuccess.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/TestScripts.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TestScripts.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +37,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.DynamicSearchFail.executor": "Run",
+    "Python.DynamicSearchSuccess.executor": "Run",
     "Python.FillOutForm.executor": "Run",
     "Python.IntentionalBadFormEntries.executor": "Run",
     "Python.NavigationDemo.executor": "Run",
@@ -43,7 +48,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Projects/Python/TestScripts",
+    "last_opened_file_path": "D:/Projects/Python/seleniumCourse",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -53,8 +58,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.OpenAndCloseTabs">
-    <configuration name="FillOutForm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\Python\TestScripts\Selenium Test Scripts" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.DynamicSearchFail">
+    <configuration name="DynamicSearchFail" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TestScripts" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -67,8 +77,29 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium Test Scripts/FillOutForm.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium Test Scripts/DynamicSearchFail.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DynamicSearchSuccess" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TestScripts" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium Test Scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium Test Scripts/DynamicSearchSuccess.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,29 +123,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium Test Scripts/IntentionalBadFormEntries.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="NavigationDemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="TestScripts" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium Test Scripts" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium Test Scripts/NavigationDemo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,18 +179,18 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.DynamicSearchFail" />
+        <item itemvalue="Python.DynamicSearchSuccess" />
+        <item itemvalue="Python.SearchForInvalidLinks (1)" />
         <item itemvalue="Python.OpenAndCloseTabs" />
         <item itemvalue="Python.IntentionalBadFormEntries" />
-        <item itemvalue="Python.NavigationDemo" />
-        <item itemvalue="Python.FillOutForm" />
-        <item itemvalue="Python.SearchForInvalidLinks (1)" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
+        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
       </set>
     </attachedChunks>
   </component>
@@ -197,7 +205,7 @@
       <workItem from="1708619130356" duration="1215000" />
       <workItem from="1708620404390" duration="1184000" />
       <workItem from="1708693475389" duration="7513000" />
-      <workItem from="1708970674336" duration="5418000" />
+      <workItem from="1708970674336" duration="5492000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -255,7 +263,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708706845670</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Create OpenAndCloseTabs.py">
+      <option name="closed" value="true" />
+      <created>1708977415619</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1708977415619</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,7 +284,8 @@
     <MESSAGE value="Invalid link search script updated" />
     <MESSAGE value="Create FillOutForm.py" />
     <MESSAGE value="Create IntentionalBadFormEntries.py and NavigationDemo.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create IntentionalBadFormEntries.py and NavigationDemo.py" />
+    <MESSAGE value="Create OpenAndCloseTabs.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create OpenAndCloseTabs.py" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/TestScripts$blankFile.coverage" NAME="blankFile Coverage Results" MODIFIED="1708620496418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium Test Scripts" />
