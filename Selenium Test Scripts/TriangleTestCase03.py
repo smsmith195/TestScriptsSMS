@@ -1,3 +1,5 @@
+# The intent of this test case is to use a two different valued variables to create a valid triangle
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 

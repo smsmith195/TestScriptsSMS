@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93327452-ea80-4a44-822b-368d121f7314" name="Changes" comment="Create OpenAndCloseTabs.py">
-      <change afterPath="$PROJECT_DIR$/Selenium Test Scripts/DynamicSearchFail.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium Test Scripts/DynamicSearchSuccess.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/TestScripts.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TestScripts.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium Test Scripts/TriangleTestCase01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium Test Scripts/TriangleTestCase01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium Test Scripts/TriangleTestCase02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium Test Scripts/TriangleTestCase02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium Test Scripts/TriangleTestCase03.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium Test Scripts/TriangleTestCase03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium Test Scripts/TriangleTestCase04.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium Test Scripts/TriangleTestCase04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium Test Scripts/TriangleTestCase05.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium Test Scripts/TriangleTestCase05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium Test Scripts/TriangleTestCase06.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium Test Scripts/TriangleTestCase06.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,11 +46,13 @@
     "Python.NavigationDemo.executor": "Run",
     "Python.OpenAndCloseTabs.executor": "Run",
     "Python.SearchForInvalidLinks (1).executor": "Run",
+    "Python.TriangleTestCase02.executor": "Run",
+    "Python.TriangleTestCase03.executor": "Run",
     "Python.blankFile.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Projects/Python/seleniumCourse",
+    "last_opened_file_path": "D:/Projects/Python/TestScripts",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -63,7 +67,7 @@
       <recent name="D:\Projects\Python\TestScripts\Selenium Test Scripts" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.DynamicSearchFail">
+  <component name="RunManager" selected="Python.NavigationDemo">
     <configuration name="DynamicSearchFail" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TestScripts" />
       <option name="ENV_FILES" value="" />
@@ -108,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="IntentionalBadFormEntries" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="NavigationDemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TestScripts" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -121,8 +125,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium Test Scripts/IntentionalBadFormEntries.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium Test Scripts/NavigationDemo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="OpenAndCloseTabs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="TriangleTestCase02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TestScripts" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,8 +147,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium Test Scripts/OpenAndCloseTabs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium Test Scripts/TriangleTestCase02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SearchForInvalidLinks (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="TriangleTestCase03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TestScripts" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -167,8 +169,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium Test Scripts/SearchForInvalidLinks.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium Test Scripts/TriangleTestCase03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.DynamicSearchFail" />
+        <item itemvalue="Python.NavigationDemo" />
+        <item itemvalue="Python.TriangleTestCase03" />
+        <item itemvalue="Python.TriangleTestCase02" />
         <item itemvalue="Python.DynamicSearchSuccess" />
-        <item itemvalue="Python.SearchForInvalidLinks (1)" />
-        <item itemvalue="Python.OpenAndCloseTabs" />
-        <item itemvalue="Python.IntentionalBadFormEntries" />
+        <item itemvalue="Python.DynamicSearchFail" />
       </list>
     </recent_temporary>
   </component>

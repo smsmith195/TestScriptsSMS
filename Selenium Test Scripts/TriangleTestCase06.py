@@ -1,3 +1,5 @@
+# The intent of this test case is to intentionally cause an error by using white space in the triangle app
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 

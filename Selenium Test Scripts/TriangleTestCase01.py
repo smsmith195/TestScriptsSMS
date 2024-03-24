@@ -1,3 +1,5 @@
+# The intent of this test case is to use a single variable to create an equilateral triangle
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
