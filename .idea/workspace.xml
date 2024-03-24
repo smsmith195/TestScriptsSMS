@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93327452-ea80-4a44-822b-368d121f7314" name="Changes" comment="Add comments to triangle test cases">
-      <change afterPath="$PROJECT_DIR$/Selenium Test Scripts/ProgressBar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium Test Scripts/HoverMenu.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +37,7 @@
     "Python.DynamicSearchFail.executor": "Run",
     "Python.DynamicSearchSuccess.executor": "Run",
     "Python.FillOutForm.executor": "Run",
+    "Python.HoverMenu.executor": "Run",
     "Python.IntentionalBadFormEntries.executor": "Run",
     "Python.NavigationDemo.executor": "Run",
     "Python.OpenAndCloseTabs.executor": "Run",
@@ -63,8 +64,8 @@
       <recent name="D:\Projects\Python\TestScripts\Selenium Test Scripts" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ProgressBar">
-    <configuration name="DynamicSearchSuccess" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.HoverMenu">
+    <configuration name="HoverMenu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TestScripts" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -77,7 +78,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium Test Scripts/DynamicSearchSuccess.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium Test Scripts/HoverMenu.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.HoverMenu" />
         <item itemvalue="Python.ProgressBar" />
         <item itemvalue="Python.NavigationDemo" />
         <item itemvalue="Python.TriangleTestCase03" />
         <item itemvalue="Python.TriangleTestCase02" />
-        <item itemvalue="Python.DynamicSearchSuccess" />
       </list>
     </recent_temporary>
   </component>
