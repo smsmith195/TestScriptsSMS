@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93327452-ea80-4a44-822b-368d121f7314" name="Changes" comment="Create OpenAndCloseTabs.py">
+    <list default="true" id="93327452-ea80-4a44-822b-368d121f7314" name="Changes" comment="Add comments to triangle test cases">
+      <change afterPath="$PROJECT_DIR$/Selenium Test Scripts/ProgressBar.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium Test Scripts/TriangleTestCase01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium Test Scripts/TriangleTestCase01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium Test Scripts/TriangleTestCase02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium Test Scripts/TriangleTestCase02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium Test Scripts/TriangleTestCase03.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium Test Scripts/TriangleTestCase03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium Test Scripts/TriangleTestCase04.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium Test Scripts/TriangleTestCase04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium Test Scripts/TriangleTestCase05.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium Test Scripts/TriangleTestCase05.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium Test Scripts/TriangleTestCase06.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium Test Scripts/TriangleTestCase06.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +40,7 @@
     "Python.IntentionalBadFormEntries.executor": "Run",
     "Python.NavigationDemo.executor": "Run",
     "Python.OpenAndCloseTabs.executor": "Run",
+    "Python.ProgressBar.executor": "Run",
     "Python.SearchForInvalidLinks (1).executor": "Run",
     "Python.TriangleTestCase02.executor": "Run",
     "Python.TriangleTestCase03.executor": "Run",
@@ -67,29 +63,7 @@
       <recent name="D:\Projects\Python\TestScripts\Selenium Test Scripts" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.NavigationDemo">
-    <configuration name="DynamicSearchFail" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="TestScripts" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium Test Scripts" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium Test Scripts/DynamicSearchFail.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.ProgressBar">
     <configuration name="DynamicSearchSuccess" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TestScripts" />
       <option name="ENV_FILES" value="" />
@@ -126,6 +100,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium Test Scripts/NavigationDemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ProgressBar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TestScripts" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium Test Scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium Test Scripts/ProgressBar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ProgressBar" />
         <item itemvalue="Python.NavigationDemo" />
         <item itemvalue="Python.TriangleTestCase03" />
         <item itemvalue="Python.TriangleTestCase02" />
         <item itemvalue="Python.DynamicSearchSuccess" />
-        <item itemvalue="Python.DynamicSearchFail" />
       </list>
     </recent_temporary>
   </component>
@@ -272,7 +268,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708977415619</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add comments to triangle test cases">
+      <option name="closed" value="true" />
+      <created>1711281890843</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1711281890843</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -286,7 +290,8 @@
     <MESSAGE value="Create FillOutForm.py" />
     <MESSAGE value="Create IntentionalBadFormEntries.py and NavigationDemo.py" />
     <MESSAGE value="Create OpenAndCloseTabs.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create OpenAndCloseTabs.py" />
+    <MESSAGE value="Add comments to triangle test cases" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add comments to triangle test cases" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/TestScripts$blankFile.coverage" NAME="blankFile Coverage Results" MODIFIED="1708620496418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium Test Scripts" />
