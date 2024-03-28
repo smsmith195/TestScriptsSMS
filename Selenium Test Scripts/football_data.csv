@@ -1,0 +1,371 @@
+date,home_team,score,away_team
+05-08-2023,Livingston,0 - 0,Aberdeen
+13-08-2023,Aberdeen,1 - 3,Celtic
+27-08-2023,St Mirren,2 - 2,Aberdeen
+03-09-2023,Aberdeen,0 - 2,Hibernian
+16-09-2023,Hearts,2 - 0,Aberdeen
+24-09-2023,Aberdeen,4 - 0,Ross County
+30-09-2023,Rangers,1 - 3,Aberdeen
+08-10-2023,Aberdeen,0 - 0,St Johnstone
+29-10-2023,Kilmarnock,2 - 0,Aberdeen
+01-11-2023,Motherwell,2 - 4,Aberdeen
+12-11-2023,Celtic,6 - 0,Aberdeen
+26-11-2023,Aberdeen,1 - 1,Rangers
+03-12-2023,Hibernian,2 - 0,Aberdeen
+06-12-2023,Aberdeen,0 - 1,Kilmarnock
+09-12-2023,Aberdeen,2 - 1,Hearts
+20-12-2023,Aberdeen,2 - 1,Livingston
+30-12-2023,Aberdeen,0 - 3,St Mirren
+02-01-2024,Ross County,0 - 3,Aberdeen
+24-01-2024,St Johnstone,1 - 1,Aberdeen
+27-01-2024,Hearts,2 - 0,Aberdeen
+30-01-2024,Aberdeen,1 - 1,Dundee
+03-02-2024,Aberdeen,1 - 1,Celtic
+06-02-2024,Rangers,2 - 1,Aberdeen
+14-02-2024,Aberdeen,3 - 3,Motherwell
+17-02-2024,Aberdeen,2 - 2,Hibernian
+24-02-2024,Kilmarnock,2 - 0,Aberdeen
+28-02-2024,Aberdeen,0 - 2,St Johnstone
+02-03-2024,St Mirren,2 - 1,Aberdeen
+13-03-2024,Dundee,1 - 0,Aberdeen
+16-03-2024,Motherwell,0 - 1,Aberdeen
+30-03-2024,Aberdeen,? - ?,Ross County
+05-08-2023,Celtic,4 - 2,Ross County
+13-08-2023,Aberdeen,1 - 3,Celtic
+26-08-2023,Celtic,0 - 0,St Johnstone
+03-09-2023,Rangers,0 - 1,Celtic
+16-09-2023,Celtic,3 - 0,Dundee
+23-09-2023,Livingston,0 - 3,Celtic
+30-09-2023,Motherwell,1 - 2,Celtic
+07-10-2023,Celtic,3 - 1,Kilmarnock
+22-10-2023,Hearts,1 - 4,Celtic
+28-10-2023,Hibernian,0 - 0,Celtic
+01-11-2023,Celtic,2 - 1,St Mirren
+04-11-2023,Ross County,0 - 3,Celtic
+12-11-2023,Celtic,6 - 0,Aberdeen
+25-11-2023,Celtic,1 - 1,Motherwell
+03-12-2023,St Johnstone,1 - 3,Celtic
+06-12-2023,Celtic,4 - 1,Hibernian
+10-12-2023,Kilmarnock,2 - 1,Celtic
+16-12-2023,Celtic,0 - 2,Hearts
+23-12-2023,Celtic,2 - 0,Livingston
+26-12-2023,Dundee,0 - 3,Celtic
+30-12-2023,Celtic,2 - 1,Rangers
+02-01-2024,St Mirren,0 - 3,Celtic
+27-01-2024,Celtic,1 - 0,Ross County
+03-02-2024,Aberdeen,1 - 1,Celtic
+07-02-2024,Hibernian,1 - 2,Celtic
+17-02-2024,Celtic,1 - 1,Kilmarnock
+25-02-2024,Motherwell,1 - 3,Celtic
+28-02-2024,Celtic,7 - 1,Dundee
+03-03-2024,Hearts,2 - 0,Celtic
+16-03-2024,Celtic,3 - 1,St Johnstone
+31-03-2024,Livingston,? - ?,Celtic
+05-08-2023,Dundee,1 - 1,Motherwell
+12-08-2023,St Mirren,2 - 1,Dundee
+27-08-2023,Dundee,1 - 0,Hearts
+02-09-2023,St Johnstone,2 - 2,Dundee
+16-09-2023,Celtic,3 - 0,Dundee
+23-09-2023,Dundee,2 - 2,Kilmarnock
+30-09-2023,Hibernian,0 - 0,Dundee
+24-10-2023,Dundee,0 - 0,Ross County
+28-10-2023,Livingston,0 - 2,Dundee
+01-11-2023,Dundee,0 - 5,Rangers
+05-11-2023,Dundee,1 - 0,Livingston
+11-11-2023,Dundee,4 - 0,St Mirren
+25-11-2023,Dundee,1 - 2,Hibernian
+02-12-2023,Motherwell,3 - 3,Dundee
+09-12-2023,Rangers,3 - 1,Dundee
+16-12-2023,Ross County,0 - 1,Dundee
+26-12-2023,Dundee,0 - 3,Celtic
+30-12-2023,Kilmarnock,2 - 2,Dundee
+23-01-2024,Hearts,3 - 2,Dundee
+27-01-2024,Livingston,1 - 4,Dundee
+30-01-2024,Aberdeen,1 - 1,Dundee
+03-02-2024,Dundee,2 - 3,Hearts
+07-02-2024,St Mirren,2 - 0,Dundee
+11-02-2024,Dundee,2 - 1,St Johnstone
+17-02-2024,Dundee,2 - 0,Ross County
+24-02-2024,Hibernian,2 - 1,Dundee
+28-02-2024,Celtic,7 - 1,Dundee
+02-03-2024,Dundee,2 - 2,Kilmarnock
+13-03-2024,Dundee,1 - 0,Aberdeen
+30-03-2024,St Johnstone,? - ?,Dundee
+05-08-2023,St Johnstone,0 - 2,Hearts
+13-08-2023,Hearts,0 - 0,Kilmarnock
+27-08-2023,Dundee,1 - 0,Hearts
+03-09-2023,Hearts,0 - 1,Motherwell
+16-09-2023,Hearts,2 - 0,Aberdeen
+23-09-2023,St Mirren,1 - 0,Hearts
+30-09-2023,Ross County,0 - 1,Hearts
+07-10-2023,Hearts,2 - 2,Hibernian
+22-10-2023,Hearts,1 - 4,Celtic
+29-10-2023,Rangers,2 - 1,Hearts
+01-11-2023,Hearts,1 - 0,Livingston
+11-11-2023,Motherwell,1 - 2,Hearts
+25-11-2023,Hearts,1 - 0,St Johnstone
+02-12-2023,Kilmarnock,0 - 1,Hearts
+06-12-2023,Hearts,0 - 1,Rangers
+09-12-2023,Aberdeen,2 - 1,Hearts
+16-12-2023,Celtic,0 - 2,Hearts
+23-12-2023,Hearts,2 - 0,St Mirren
+27-12-2023,Hibernian,0 - 1,Hearts
+30-12-2023,Hearts,2 - 2,Ross County
+02-01-2024,Livingston,1 - 2,Hearts
+23-01-2024,Hearts,3 - 2,Dundee
+27-01-2024,Hearts,2 - 0,Aberdeen
+03-02-2024,Dundee,2 - 3,Hearts
+07-02-2024,St Johnstone,0 - 1,Hearts
+17-02-2024,Hearts,2 - 0,Motherwell
+24-02-2024,Rangers,5 - 0,Hearts
+28-02-2024,Hearts,1 - 1,Hibernian
+03-03-2024,Hearts,2 - 0,Celtic
+16-03-2024,Ross County,2 - 1,Hearts
+30-03-2024,Hearts,? - ?,Kilmarnock
+06-08-2023,Hibernian,2 - 3,St Mirren
+13-08-2023,Motherwell,2 - 1,Hibernian
+26-08-2023,Hibernian,2 - 3,Livingston
+03-09-2023,Aberdeen,0 - 2,Hibernian
+16-09-2023,Kilmarnock,2 - 2,Hibernian
+23-09-2023,Hibernian,2 - 0,St Johnstone
+30-09-2023,Hibernian,0 - 0,Dundee
+07-10-2023,Hearts,2 - 2,Hibernian
+21-10-2023,Rangers,4 - 0,Hibernian
+28-10-2023,Hibernian,0 - 0,Celtic
+31-10-2023,Hibernian,2 - 2,Ross County
+08-11-2023,St Mirren,2 - 2,Hibernian
+11-11-2023,Hibernian,1 - 0,Kilmarnock
+25-11-2023,Dundee,1 - 2,Hibernian
+03-12-2023,Hibernian,2 - 0,Aberdeen
+06-12-2023,Celtic,4 - 1,Hibernian
+09-12-2023,Livingston,0 - 1,Hibernian
+16-12-2023,St Johnstone,1 - 0,Hibernian
+27-12-2023,Hibernian,0 - 1,Hearts
+02-01-2024,Hibernian,2 - 2,Motherwell
+24-01-2024,Hibernian,0 - 3,Rangers
+27-01-2024,Kilmarnock,2 - 2,Hibernian
+03-02-2024,Hibernian,0 - 3,St Mirren
+07-02-2024,Hibernian,1 - 2,Celtic
+17-02-2024,Aberdeen,2 - 2,Hibernian
+24-02-2024,Hibernian,2 - 1,Dundee
+28-02-2024,Hearts,1 - 1,Hibernian
+02-03-2024,Hibernian,2 - 0,Ross County
+13-03-2024,Ross County,2 - 2,Hibernian
+16-03-2024,Hibernian,3 - 0,Livingston
+30-03-2024,Rangers,? - ?,Hibernian
+05-08-2023,Kilmarnock,1 - 0,Rangers
+13-08-2023,Hearts,0 - 0,Kilmarnock
+26-08-2023,Motherwell,2 - 1,Kilmarnock
+02-09-2023,Kilmarnock,0 - 1,Ross County
+16-09-2023,Kilmarnock,2 - 2,Hibernian
+23-09-2023,Dundee,2 - 2,Kilmarnock
+30-09-2023,Kilmarnock,1 - 1,St Mirren
+07-10-2023,Celtic,3 - 1,Kilmarnock
+21-10-2023,Kilmarnock,3 - 1,Livingston
+29-10-2023,Kilmarnock,2 - 0,Aberdeen
+01-11-2023,St Johnstone,2 - 1,Kilmarnock
+04-11-2023,Kilmarnock,1 - 0,Motherwell
+11-11-2023,Hibernian,1 - 0,Kilmarnock
+25-11-2023,Ross County,0 - 0,Kilmarnock
+02-12-2023,Kilmarnock,0 - 1,Hearts
+06-12-2023,Aberdeen,0 - 1,Kilmarnock
+10-12-2023,Kilmarnock,2 - 1,Celtic
+16-12-2023,Livingston,0 - 0,Kilmarnock
+23-12-2023,Kilmarnock,2 - 1,St Johnstone
+27-12-2023,St Mirren,0 - 1,Kilmarnock
+30-12-2023,Kilmarnock,2 - 2,Dundee
+02-01-2024,Rangers,3 - 1,Kilmarnock
+27-01-2024,Kilmarnock,2 - 2,Hibernian
+03-02-2024,Motherwell,1 - 1,Kilmarnock
+07-02-2024,Kilmarnock,1 - 0,Livingston
+17-02-2024,Celtic,1 - 1,Kilmarnock
+24-02-2024,Kilmarnock,2 - 0,Aberdeen
+28-02-2024,Kilmarnock,1 - 2,Rangers
+02-03-2024,Dundee,2 - 2,Kilmarnock
+16-03-2024,Kilmarnock,5 - 2,St Mirren
+30-03-2024,Hearts,? - ?,Kilmarnock
+05-08-2023,Livingston,0 - 0,Aberdeen
+12-08-2023,Rangers,4 - 0,Livingston
+26-08-2023,Hibernian,2 - 3,Livingston
+02-09-2023,Livingston,1 - 1,St Mirren
+16-09-2023,Ross County,1 - 1,Livingston
+23-09-2023,Livingston,0 - 3,Celtic
+30-09-2023,St Johnstone,1 - 1,Livingston
+07-10-2023,Livingston,2 - 0,Motherwell
+21-10-2023,Kilmarnock,3 - 1,Livingston
+28-10-2023,Livingston,0 - 2,Dundee
+01-11-2023,Hearts,1 - 0,Livingston
+05-11-2023,Dundee,1 - 0,Livingston
+12-11-2023,Livingston,0 - 2,Rangers
+25-11-2023,St Mirren,1 - 0,Livingston
+09-12-2023,Livingston,0 - 1,Hibernian
+16-12-2023,Livingston,0 - 0,Kilmarnock
+20-12-2023,Aberdeen,2 - 1,Livingston
+23-12-2023,Celtic,2 - 0,Livingston
+27-12-2023,Livingston,0 - 0,St Johnstone
+30-12-2023,Motherwell,3 - 1,Livingston
+02-01-2024,Livingston,1 - 2,Hearts
+27-01-2024,Livingston,1 - 4,Dundee
+30-01-2024,Livingston,2 - 2,Ross County
+03-02-2024,Rangers,3 - 0,Livingston
+07-02-2024,Kilmarnock,1 - 0,Livingston
+17-02-2024,Livingston,1 - 0,St Mirren
+24-02-2024,Ross County,3 - 2,Livingston
+28-02-2024,Livingston,1 - 3,Motherwell
+02-03-2024,St Johnstone,1 - 1,Livingston
+16-03-2024,Hibernian,3 - 0,Livingston
+31-03-2024,Livingston,? - ?,Celtic
+05-08-2023,Dundee,1 - 1,Motherwell
+13-08-2023,Motherwell,2 - 1,Hibernian
+26-08-2023,Motherwell,2 - 1,Kilmarnock
+03-09-2023,Hearts,0 - 1,Motherwell
+16-09-2023,Motherwell,0 - 1,St Mirren
+24-09-2023,Rangers,1 - 0,Motherwell
+30-09-2023,Motherwell,1 - 2,Celtic
+07-10-2023,Livingston,2 - 0,Motherwell
+28-10-2023,Motherwell,3 - 3,Ross County
+01-11-2023,Motherwell,2 - 4,Aberdeen
+04-11-2023,Kilmarnock,1 - 0,Motherwell
+07-11-2023,St Johnstone,2 - 2,Motherwell
+11-11-2023,Motherwell,1 - 2,Hearts
+25-11-2023,Celtic,1 - 1,Motherwell
+02-12-2023,Motherwell,3 - 3,Dundee
+05-12-2023,Ross County,3 - 0,Motherwell
+09-12-2023,Motherwell,1 - 1,St Johnstone
+16-12-2023,St Mirren,0 - 0,Motherwell
+24-12-2023,Motherwell,0 - 2,Rangers
+30-12-2023,Motherwell,3 - 1,Livingston
+02-01-2024,Hibernian,2 - 2,Motherwell
+27-01-2024,St Johnstone,1 - 1,Motherwell
+03-02-2024,Motherwell,1 - 1,Kilmarnock
+06-02-2024,Motherwell,5 - 0,Ross County
+14-02-2024,Aberdeen,3 - 3,Motherwell
+17-02-2024,Hearts,2 - 0,Motherwell
+25-02-2024,Motherwell,1 - 3,Celtic
+28-02-2024,Livingston,1 - 3,Motherwell
+02-03-2024,Rangers,1 - 2,Motherwell
+16-03-2024,Motherwell,0 - 1,Aberdeen
+30-03-2024,Motherwell,? - ?,St Mirren
+05-08-2023,Kilmarnock,1 - 0,Rangers
+12-08-2023,Rangers,4 - 0,Livingston
+26-08-2023,Ross County,0 - 2,Rangers
+03-09-2023,Rangers,0 - 1,Celtic
+16-09-2023,St Johnstone,0 - 2,Rangers
+24-09-2023,Rangers,1 - 0,Motherwell
+30-09-2023,Rangers,1 - 3,Aberdeen
+08-10-2023,St Mirren,0 - 3,Rangers
+21-10-2023,Rangers,4 - 0,Hibernian
+29-10-2023,Rangers,2 - 1,Hearts
+01-11-2023,Dundee,0 - 5,Rangers
+12-11-2023,Livingston,0 - 2,Rangers
+26-11-2023,Aberdeen,1 - 1,Rangers
+03-12-2023,Rangers,2 - 0,St Mirren
+06-12-2023,Hearts,0 - 1,Rangers
+09-12-2023,Rangers,3 - 1,Dundee
+20-12-2023,Rangers,2 - 0,St Johnstone
+24-12-2023,Motherwell,0 - 2,Rangers
+30-12-2023,Celtic,2 - 1,Rangers
+02-01-2024,Rangers,3 - 1,Kilmarnock
+24-01-2024,Hibernian,0 - 3,Rangers
+27-01-2024,St Mirren,0 - 1,Rangers
+03-02-2024,Rangers,3 - 0,Livingston
+06-02-2024,Rangers,2 - 1,Aberdeen
+14-02-2024,Rangers,3 - 1,Ross County
+18-02-2024,St Johnstone,0 - 3,Rangers
+24-02-2024,Rangers,5 - 0,Hearts
+28-02-2024,Kilmarnock,1 - 2,Rangers
+02-03-2024,Rangers,1 - 2,Motherwell
+30-03-2024,Rangers,? - ?,Hibernian
+05-08-2023,Celtic,4 - 2,Ross County
+12-08-2023,Ross County,2 - 0,St Johnstone
+26-08-2023,Ross County,0 - 2,Rangers
+02-09-2023,Kilmarnock,0 - 1,Ross County
+16-09-2023,Ross County,1 - 1,Livingston
+24-09-2023,Aberdeen,4 - 0,Ross County
+30-09-2023,Ross County,0 - 1,Hearts
+24-10-2023,Dundee,0 - 0,Ross County
+28-10-2023,Motherwell,3 - 3,Ross County
+31-10-2023,Hibernian,2 - 2,Ross County
+04-11-2023,Ross County,0 - 3,Celtic
+11-11-2023,St Johnstone,1 - 0,Ross County
+25-11-2023,Ross County,0 - 0,Kilmarnock
+28-11-2023,Ross County,1 - 0,St Mirren
+05-12-2023,Ross County,3 - 0,Motherwell
+09-12-2023,St Mirren,2 - 0,Ross County
+16-12-2023,Ross County,0 - 1,Dundee
+30-12-2023,Hearts,2 - 2,Ross County
+02-01-2024,Ross County,0 - 3,Aberdeen
+27-01-2024,Celtic,1 - 0,Ross County
+30-01-2024,Livingston,2 - 2,Ross County
+03-02-2024,Ross County,0 - 1,St Johnstone
+06-02-2024,Motherwell,5 - 0,Ross County
+14-02-2024,Rangers,3 - 1,Ross County
+17-02-2024,Dundee,2 - 0,Ross County
+24-02-2024,Ross County,3 - 2,Livingston
+27-02-2024,Ross County,1 - 1,St Mirren
+02-03-2024,Hibernian,2 - 0,Ross County
+13-03-2024,Ross County,2 - 2,Hibernian
+16-03-2024,Ross County,2 - 1,Hearts
+30-03-2024,Aberdeen,? - ?,Ross County
+05-08-2023,St Johnstone,0 - 2,Hearts
+12-08-2023,Ross County,2 - 0,St Johnstone
+26-08-2023,Celtic,0 - 0,St Johnstone
+02-09-2023,St Johnstone,2 - 2,Dundee
+16-09-2023,St Johnstone,0 - 2,Rangers
+23-09-2023,Hibernian,2 - 0,St Johnstone
+30-09-2023,St Johnstone,1 - 1,Livingston
+08-10-2023,Aberdeen,0 - 0,St Johnstone
+28-10-2023,St Mirren,4 - 0,St Johnstone
+01-11-2023,St Johnstone,2 - 1,Kilmarnock
+07-11-2023,St Johnstone,2 - 2,Motherwell
+11-11-2023,St Johnstone,1 - 0,Ross County
+25-11-2023,Hearts,1 - 0,St Johnstone
+03-12-2023,St Johnstone,1 - 3,Celtic
+06-12-2023,St Johnstone,1 - 0,St Mirren
+09-12-2023,Motherwell,1 - 1,St Johnstone
+16-12-2023,St Johnstone,1 - 0,Hibernian
+20-12-2023,Rangers,2 - 0,St Johnstone
+23-12-2023,Kilmarnock,2 - 1,St Johnstone
+27-12-2023,Livingston,0 - 0,St Johnstone
+24-01-2024,St Johnstone,1 - 1,Aberdeen
+27-01-2024,St Johnstone,1 - 1,Motherwell
+03-02-2024,Ross County,0 - 1,St Johnstone
+07-02-2024,St Johnstone,0 - 1,Hearts
+11-02-2024,Dundee,2 - 1,St Johnstone
+18-02-2024,St Johnstone,0 - 3,Rangers
+24-02-2024,St Mirren,2 - 0,St Johnstone
+28-02-2024,Aberdeen,0 - 2,St Johnstone
+02-03-2024,St Johnstone,1 - 1,Livingston
+16-03-2024,Celtic,3 - 1,St Johnstone
+30-03-2024,St Johnstone,? - ?,Dundee
+06-08-2023,Hibernian,2 - 3,St Mirren
+12-08-2023,St Mirren,2 - 1,Dundee
+27-08-2023,St Mirren,2 - 2,Aberdeen
+02-09-2023,Livingston,1 - 1,St Mirren
+16-09-2023,Motherwell,0 - 1,St Mirren
+23-09-2023,St Mirren,1 - 0,Hearts
+30-09-2023,Kilmarnock,1 - 1,St Mirren
+08-10-2023,St Mirren,0 - 3,Rangers
+28-10-2023,St Mirren,4 - 0,St Johnstone
+01-11-2023,Celtic,2 - 1,St Mirren
+08-11-2023,St Mirren,2 - 2,Hibernian
+11-11-2023,Dundee,4 - 0,St Mirren
+25-11-2023,St Mirren,1 - 0,Livingston
+28-11-2023,Ross County,1 - 0,St Mirren
+03-12-2023,Rangers,2 - 0,St Mirren
+06-12-2023,St Johnstone,1 - 0,St Mirren
+09-12-2023,St Mirren,2 - 0,Ross County
+16-12-2023,St Mirren,0 - 0,Motherwell
+23-12-2023,Hearts,2 - 0,St Mirren
+27-12-2023,St Mirren,0 - 1,Kilmarnock
+30-12-2023,Aberdeen,0 - 3,St Mirren
+02-01-2024,St Mirren,0 - 3,Celtic
+27-01-2024,St Mirren,0 - 1,Rangers
+03-02-2024,Hibernian,0 - 3,St Mirren
+07-02-2024,St Mirren,2 - 0,Dundee
+17-02-2024,Livingston,1 - 0,St Mirren
+24-02-2024,St Mirren,2 - 0,St Johnstone
+27-02-2024,Ross County,1 - 1,St Mirren
+02-03-2024,St Mirren,2 - 1,Aberdeen
+16-03-2024,Kilmarnock,5 - 2,St Mirren
+30-03-2024,Motherwell,? - ?,St Mirren
