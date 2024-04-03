@@ -4,6 +4,10 @@ import time
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+"""
+
+Code has been commented out due to using a website that has since been updated.
+Update using updated web links and so on will be made in the future.
 
 # Open Browser and website
 driver = webdriver.Firefox()
@@ -34,3 +38,4 @@ driver.find_element(By.NAME, "your-message").send_keys(
 driver.find_element(By.CSS_SELECTOR, "input[value='Send']").click()
 
 driver.quit()
+"""
